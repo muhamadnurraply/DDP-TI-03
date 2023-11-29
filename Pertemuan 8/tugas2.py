@@ -10,8 +10,6 @@ def UTS_DDP (nilai):
         return "perfect"
     else:
         return "nilai tidak valid!"
-    
-
-print(UTS_DDP (nilai))
+print(nilai)
 
     
